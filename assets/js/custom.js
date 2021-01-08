@@ -270,7 +270,7 @@ $(document).on('ready',function() {
 
 	});
 
-//	index1_testimonial_slider
+//	index_testimonial_slider
 	var slider_testimonial = $(".home_testimonial");
 	slider_testimonial.owlCarousel({
 		loop : true,
